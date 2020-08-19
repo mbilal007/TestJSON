@@ -1,0 +1,8 @@
+{
+    "url": [
+        "https://dm-prod-az-prod-dme-datacollection-ms.cfapps.eu20.hana.ondemand.com/actuator/health",
+        "https://dm-prod-az-prod-dme-datacollection-ui.cfapps.eu20.hana.ondemand.com/health/health.json",
+        "https://dm-prod-az-prod-dme-demand-ms.cfapps.eu20.hana.ondemand.com/actuator/health",
+        "https://dm-prod-az-prod-dme-demand-ui.cfapps.eu20.hana.ondemand.com/health/health.json"
+    ]
+}
