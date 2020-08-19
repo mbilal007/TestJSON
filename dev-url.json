@@ -1,8 +1,0 @@
-{
-    "url": [
-        "https://dm-canary-dev-dme-datacollection-ms.cfapps.sap.hana.ondemand.com/actuator/health"
-        "https://dm-canary-dev-dme-datacollection-ui.cfapps.sap.hana.ondemand.com/health/health.json"
-        "https://dm-canary-dev-dme-demand-ms.cfapps.sap.hana.ondemand.com/actuator/health"
-        "https://dm-canary-dev-dme-demand-ui.cfapps.sap.hana.ondemand.com/health/health.json"
-    ]
-}
